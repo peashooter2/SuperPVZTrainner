@@ -26,4 +26,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: WPFTrainner
-        path: bin\x64\Debug\
+        path: obj\Debug\
