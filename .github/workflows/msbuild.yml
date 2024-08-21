@@ -19,7 +19,6 @@ jobs:
       with:
         vs-prerelease: true
 
-
     - name: Build
       run: msbuild /m /p:Configuration=Debug WPFTrainner\WPFTrainner.sln
 
@@ -27,4 +26,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: WPFTrainner
-        path: Debug\bin
+        path: bin\x64\Debug\
