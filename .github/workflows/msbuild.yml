@@ -27,3 +27,45 @@ jobs:
       with:
         name: WPFTrainner
         path: WPFTrainner\WPFTrainner\bin\Debug\
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: PakTool
+        path: PakTool\bin\Debug\
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: PVZTools
+        path: PVZTools\bin\Debug\
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: PVZScript
+        path: PVZScript\PVZScript\bin\Debug\
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: PVZClass
+        path: PVZClass\PVZClass\bin\Debug\
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: LightCheatEngine
+        path: LightCheatEngine\bin\Debug\
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: IZFormatSetter
+        path: IZFormatSetter\IZFormatSetter\bin\Debug\
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: DarkStyle
+        path: DarkStyle\bin\Debug\
