@@ -69,3 +69,51 @@ jobs:
       with:
         name: DarkStyle
         path: DarkStyle\bin\Debug\
+
+    - name: Upload a Objects Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: WPFTrainner_objects
+        path: WPFTrainner\WPFTrainner\obj\Debug\
+
+    - name: Upload a Objects Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: PakTool_objects
+        path: PakTool\obj\Debug\
+
+    - name: Upload a Objects Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: PVZTools_objects
+        path: PVZTools\obj\Debug\
+
+    - name: Upload a Objects Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: PVZScript_objects
+        path: PVZScript\PVZScript\obj\Debug\
+
+    - name: Upload a Objects Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: PVZClass_objects
+        path: PVZClass\PVZClass\obj\Debug\
+
+    - name: Upload a Objects Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: LightCheatEngine_objects
+        path: LightCheatEngine\obj\Debug\
+
+    - name: Upload a Objects Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: IZFormatSetter_objects
+        path: IZFormatSetter\IZFormatSetter\obj\Debug\
+
+    - name: Upload a Objects Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: DarkStyle_objects
+        path: DarkStyle\obj\Debug\
