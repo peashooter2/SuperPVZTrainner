@@ -22,8 +22,5 @@ jobs:
     - name: Build
       run: msbuild /m /p:Configuration=Debug WPFTrainner\WPFTrainner.sln
 
-    - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: WPFTrainner
-        path: obj\Debug\
+    - name: test
+      run: dir D:\a\SuperPVZTrainner\SuperPVZTrainner
