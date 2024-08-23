@@ -71,7 +71,7 @@
                 <TextBlock.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>所有常规项</sys:String>
-                        <sys:String>Regular</sys:String>
+                        <sys:String>All Regular</sys:String>
                     </x:Array>
                 </TextBlock.Resources>
             </TextBlock>
@@ -139,7 +139,7 @@
                             <TextBlock.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>阳光上限</sys:String>
-                                    <sys:String>Max Sun</sys:String>
+                                    <sys:String>Sun Limit</sys:String>
                                 </x:Array>
                             </TextBlock.Resources>
                         </TextBlock>
@@ -150,7 +150,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>允许后台运行</sys:String>
-                            <sys:String>Background Running</sys:String>
+                            <sys:String>Allow Background Running</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -158,7 +158,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>免费种植模式</sys:String>
-                            <sys:String>Free Planting</sys:String>
+                            <sys:String>Free Planting Mode</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -166,7 +166,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>取消冷却时间</sys:String>
-                            <sys:String>Cancel Plant CD</sys:String>
+                            <sys:String>Cancel Plant CoolDown</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -174,7 +174,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>自动收集资源</sys:String>
-                            <sys:String>Auto Collecting</sys:String>
+                            <sys:String>Automatic resource collection</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -182,15 +182,15 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>无视资源属性</sys:String>
-                            <sys:String>Ignore Resources</sys:String>
+                            <sys:String>Ignore Resources Properties</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
-                <local:MyCheckBox x:Name="CBShowHidden" Content="显隐藏小游戏"  Click="CBShowHidden_Click" >
+                <local:MyCheckBox x:Name="CBShowHidden" Content="显示隐藏的小游戏"  Click="CBShowHidden_Click" >
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                            <sys:String>显隐藏小游戏</sys:String>
-                            <sys:String>Show Hidden Level</sys:String>
+                            <sys:String>显示隐藏的小游戏</sys:String>
+                            <sys:String>Show Hidden Games</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -206,7 +206,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>全屏浓雾覆盖</sys:String>
-                            <sys:String>Full Screen Fog</sys:String>
+                            <sys:String>Full Screen Fog Coverage</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -230,7 +230,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>去除资源上限</sys:String>
-                            <sys:String>No Upper Limit</sys:String>
+                            <sys:String>Dislodge Upper Limit</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -327,7 +327,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>监视游戏里的对象属性</sys:String>
-                                <sys:String>Objects in game</sys:String>
+                                <sys:String>Monitor Objects in game</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
