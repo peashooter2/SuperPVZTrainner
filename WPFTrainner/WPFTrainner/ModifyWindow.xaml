@@ -436,7 +436,7 @@
                         <darkstyle:DarkComboBoxItem Content="你能把它挖出来吗?" >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>你能把它挖出来吗</sys:String>
+                                    <sys:String>你能把它挖出来吗?</sys:String>
                                     <sys:String>Can You Dig It?</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
