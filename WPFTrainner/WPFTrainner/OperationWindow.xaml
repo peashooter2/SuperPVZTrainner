@@ -33,7 +33,7 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>启动小推车</sys:String>
-                    <sys:String>StartLawnmover</sys:String>
+                    <sys:String>Start Lawnmover</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
@@ -41,7 +41,7 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>恢复小推车</sys:String>
-                    <sys:String>ResumeLawnmover</sys:String>
+                    <sys:String>Resume Lawnmover</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
@@ -87,7 +87,7 @@
             <GroupBox.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>生成植物</sys:String>
-                    <sys:String>CreatePlant</sys:String>
+                    <sys:String>Create Plant</sys:String>
                 </x:Array>
             </GroupBox.Resources>
             <Canvas>
@@ -151,7 +151,7 @@
             <GroupBox.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>生成僵尸</sys:String>
-                    <sys:String>CreateZombie</sys:String>
+                    <sys:String>Create Zombie</sys:String>
                 </x:Array>
             </GroupBox.Resources>
             <Canvas>
@@ -169,7 +169,7 @@
                     <TextBlock.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>本体血量</sys:String>
-                            <sys:String>BodyHp</sys:String>
+                            <sys:String>Body Hp</sys:String>
                         </x:Array>
                     </TextBlock.Resources>
                 </TextBlock>
@@ -205,7 +205,7 @@
                     <TextBlock.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>I类饰品血量</sys:String>
-                            <sys:String>HatHp</sys:String>
+                            <sys:String>Hat Hp</sys:String>
                         </x:Array>
                     </TextBlock.Resources>
                 </TextBlock>
@@ -225,7 +225,7 @@
                     <TextBlock.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>II类饰品血量</sys:String>
-                            <sys:String>ShieldHp</sys:String>
+                            <sys:String>Shield Hp</sys:String>
                         </x:Array>
                     </TextBlock.Resources>
                 </TextBlock>
@@ -247,7 +247,7 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>搭梯</sys:String>
-                    <sys:String>CreateLadder</sys:String>
+                    <sys:String>Create Ladder</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
@@ -255,7 +255,7 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>墓碑</sys:String>
-                    <sys:String>CreateGrave</sys:String>
+                    <sys:String>Create Grave</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
@@ -263,7 +263,7 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>智能搭梯</sys:String>
-                    <sys:String>AutoLadder</sys:String>
+                    <sys:String>Auto Ladder</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
             <darkstyle:DarkButton.ToolTip>
@@ -281,7 +281,7 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>钉耙</sys:String>
-                    <sys:String>CreateRake</sys:String>
+                    <sys:String>Create Rake</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
