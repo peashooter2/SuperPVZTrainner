@@ -37,6 +37,12 @@ jobs:
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v4
       with:
+        name: ITrainerExtension
+        path: WPFTrainner\ITrainerExtension\bin\Debug\
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4
+      with:
         name: LightCheatEngine
         path: LightCheatEngine\bin\Debug\
 
