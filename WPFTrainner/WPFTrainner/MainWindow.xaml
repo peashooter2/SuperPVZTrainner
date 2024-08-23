@@ -105,7 +105,7 @@
                             <TextBlock.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>修改阳光</sys:String>
-                                    <sys:String>Sun</sys:String>
+                                    <sys:String>Modify Sun</sys:String>
                                 </x:Array>
                             </TextBlock.Resources>
                         </TextBlock>
@@ -122,7 +122,7 @@
                             <TextBlock.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>修改金钱</sys:String>
-                                    <sys:String>Money</sys:String>
+                                    <sys:String>Modify Money</sys:String>
                                 </x:Array>
                             </TextBlock.Resources>
                         </TextBlock>
@@ -139,7 +139,7 @@
                             <TextBlock.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>阳光上限</sys:String>
-                                    <sys:String>MaxSun</sys:String>
+                                    <sys:String>Max Sun</sys:String>
                                 </x:Array>
                             </TextBlock.Resources>
                         </TextBlock>
@@ -150,7 +150,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>允许后台运行</sys:String>
-                            <sys:String>BackgroundRunning</sys:String>
+                            <sys:String>Background Running</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -158,7 +158,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>免费种植模式</sys:String>
-                            <sys:String>FreePlanting</sys:String>
+                            <sys:String>Free Planting</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -166,7 +166,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>取消冷却时间</sys:String>
-                            <sys:String>CancelPlantCD</sys:String>
+                            <sys:String>Cancel Plant CD</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -174,7 +174,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>自动收集资源</sys:String>
-                            <sys:String>AutoCollecting</sys:String>
+                            <sys:String>Auto Collecting</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -182,7 +182,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>无视资源属性</sys:String>
-                            <sys:String>IgnoreResources</sys:String>
+                            <sys:String>Ignore Resources</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -190,7 +190,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>显隐藏小游戏</sys:String>
-                            <sys:String>ShowHiddenLevel</sys:String>
+                            <sys:String>Show Hidden Level</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -198,7 +198,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>激活重叠放置</sys:String>
-                            <sys:String>OverlapPlanting</sys:String>
+                            <sys:String>Overlap Planting</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -206,7 +206,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>全屏浓雾覆盖</sys:String>
-                            <sys:String>FullScreenFog</sys:String>
+                            <sys:String>Full Screen Fog</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -214,7 +214,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>传送带无延迟</sys:String>
-                            <sys:String>ConveyorBeltNoDelay</sys:String>
+                            <sys:String>Conveyor Belt No Delay</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -222,7 +222,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>暂停僵尸刷新</sys:String>
-                            <sys:String>PauseSpawning</sys:String>
+                            <sys:String>Pause Spawning</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -230,7 +230,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>去除资源上限</sys:String>
-                            <sys:String>NoUpperLimit</sys:String>
+                            <sys:String>No Upper Limit</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -238,7 +238,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>罐子透视</sys:String>
-                            <sys:String>VasePerspect</sys:String>
+                            <sys:String>Vase Perspect</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -246,7 +246,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>浓雾透视</sys:String>
-                            <sys:String>FogPerspect</sys:String>
+                            <sys:String>Fog Perspect</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -254,7 +254,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>锁定铲子</sys:String>
-                            <sys:String>LockShovel</sys:String>
+                            <sys:String>Lock Shovel</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -262,7 +262,7 @@
                     <darkstyle:DarkButton.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>秒杀全部僵尸</sys:String>
-                            <sys:String>KillAllZombie</sys:String>
+                            <sys:String>Kill All Zombie</sys:String>
                         </x:Array>
                     </darkstyle:DarkButton.Resources>
                 </darkstyle:DarkButton>
@@ -270,7 +270,7 @@
                     <darkstyle:DarkButton.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>魅惑全部僵尸</sys:String>
-                            <sys:String>HypnoAllZombie</sys:String>
+                            <sys:String>Hypno All Zombie</sys:String>
                         </x:Array>
                     </darkstyle:DarkButton.Resources>
                 </darkstyle:DarkButton>
@@ -278,7 +278,7 @@
                     <darkstyle:DarkButton.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>清除全部植物</sys:String>
-                            <sys:String>KillAllPlants</sys:String>
+                            <sys:String>Kill All Plants</sys:String>
                         </x:Array>
                     </darkstyle:DarkButton.Resources>
                 </darkstyle:DarkButton>
@@ -298,7 +298,7 @@
                 <Button.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>寻找游戏</sys:String>
-                        <sys:String>FindGame</sys:String>
+                        <sys:String>Find Game</sys:String>
                     </x:Array>
                 </Button.Resources>
             </darkstyle:DarkButton>
