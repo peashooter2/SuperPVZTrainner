@@ -198,10 +198,10 @@
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="坚果保龄球模式" >
+                        <darkstyle:DarkComboBoxItem Content="坚果保龄球" >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>坚果保龄球模式</sys:String>
+                                    <sys:String>坚果保龄球</sys:String>
                                     <sys:String>Wall-nut Bowling</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
@@ -278,10 +278,10 @@
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="你看他们像柱子一样">
+                        <darkstyle:DarkComboBoxItem Content="排山倒海">
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>你看他们像柱子一样</sys:String>
+                                    <sys:String>排山倒海</sys:String>
                                     <sys:String>Column Like You See 'Em</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
