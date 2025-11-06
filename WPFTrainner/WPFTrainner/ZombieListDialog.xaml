@@ -16,7 +16,7 @@
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>精确出怪列表</sys:String>
-                    <sys:String>AccurateList</sys:String>
+                    <sys:String>Accurate List</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
@@ -32,7 +32,7 @@
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>当前波数</sys:String>
-                    <sys:String>Current</sys:String>
+                    <sys:String>Current Wave</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
@@ -43,7 +43,7 @@
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>选中的僵尸</sys:String>
-                    <sys:String>Selected</sys:String>
+                    <sys:String>Selected Zombir</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
@@ -61,7 +61,7 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>删除选中僵尸</sys:String>
-                    <sys:String>Delete Selection</sys:String>
+                    <sys:String>Delete Selection Zombie</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
@@ -77,7 +77,7 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>刷新数据</sys:String>
-                    <sys:String>Refresh</sys:String>
+                    <sys:String>Refresh Data</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
