@@ -16,7 +16,7 @@
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>分离窗口</sys:String>
-                    <sys:String>Separater</sys:String>
+                    <sys:String>Separater Window</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
