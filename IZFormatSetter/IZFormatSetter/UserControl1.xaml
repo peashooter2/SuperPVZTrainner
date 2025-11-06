@@ -95,7 +95,7 @@
                     <TextBlock.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>铲除植物</sys:String>
-                            <sys:String>Shovel</sys:String>
+                            <sys:String>Shovel Plant</sys:String>
                         </x:Array>
                     </TextBlock.Resources>
                 </TextBlock>
@@ -108,7 +108,7 @@
                     <TextBlock.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>清空场地</sys:String>
-                            <sys:String>ShovelAll</sys:String>
+                            <sys:String>Shovel All</sys:String>
                         </x:Array>
                     </TextBlock.Resources>
                 </TextBlock>
@@ -138,15 +138,15 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>读取场景</sys:String>
-                    <sys:String>LoadScene</sys:String>
+                    <sys:String>Load Scene</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
         <darkstyle:DarkButton x:Name="ReadInfo"  Content="读取现状" Canvas.Left="555" Canvas.Top="375" Height="30" Width="100" Click="ReadInfo_Click">
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                    <sys:String>读取现状</sys:String>
-                    <sys:String>ReadInfo</sys:String>
+                    <sys:String>读取信息</sys:String>
+                    <sys:String>Read Info</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
