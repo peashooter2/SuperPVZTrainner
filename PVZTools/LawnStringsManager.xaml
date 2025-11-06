@@ -90,7 +90,7 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>保存该项</sys:String>
-                    <sys:String>SaveItem</sys:String>
+                    <sys:String>Save Item</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
@@ -98,7 +98,7 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>保存文件</sys:String>
-                    <sys:String>SaveFile</sys:String>
+                    <sys:String>Save File</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
@@ -106,7 +106,7 @@
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>载入游戏</sys:String>
-                    <sys:String>LoadToGame</sys:String>
+                    <sys:String>Load To Game</sys:String>
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
