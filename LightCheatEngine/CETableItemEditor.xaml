@@ -46,8 +46,8 @@
         <TextBlock Canvas.Top="112" Foreground="White" Text="类型" Width="85" TextAlignment="Center">
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                    <sys:String>类型</sys:String>
-                    <sys:String>DataType</sys:String>
+                    <sys:String>数据类型</sys:String>
+                    <sys:String>Data Type</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
@@ -96,7 +96,7 @@
                 <darkstyle:DarkComboBoxItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>双精度浮点数</sys:String>
-                        <sys:String>Double</sys:String>
+                        <sys:String>Double Float</sys:String>
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
