@@ -17,7 +17,7 @@
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>监视窗口</sys:String>
-                    <sys:String>Monitor</sys:String>
+                    <sys:String>Monitor Window</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
@@ -26,7 +26,7 @@
             <darkstyle:DarkCheckBox.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>启动僵尸血量显示</sys:String>
-                    <sys:String>ShowZombieHp</sys:String>
+                    <sys:String>Show Zombie Hp</sys:String>
                 </x:Array>
             </darkstyle:DarkCheckBox.Resources>
         </darkstyle:DarkCheckBox>
@@ -49,7 +49,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>是否在游戏内</sys:String>
-                                <sys:String>InGameArea</sys:String>
+                                <sys:String>In Game Area</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
@@ -76,7 +76,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>点击状态</sys:String>
-                                <sys:String>ClickState</sys:String>
+                                <sys:String>Click State</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
@@ -129,7 +129,7 @@
                         <darkstyle:DarkButton.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>点击坐标</sys:String>
-                                <sys:String>DoClick</sys:String>
+                                <sys:String>Click coordinates</sys:String>
                             </x:Array>
                         </darkstyle:DarkButton.Resources>
                     </darkstyle:DarkButton>
@@ -274,7 +274,7 @@
                                 <darkstyle:DarkCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>隐形</sys:String>
-                                        <sys:String>InVisible</sys:String>
+                                        <sys:String>Visible</sys:String>
                                     </x:Array>
                                 </darkstyle:DarkCheckBox.Resources>
                             </darkstyle:DarkCheckBox>
@@ -388,7 +388,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>非正面伤害</sys:String>
-                                    <sys:String>NotDirect</sys:String>
+                                    <sys:String>Not Direct Damage</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -396,7 +396,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>溅射伤害</sys:String>
-                                    <sys:String>Sputter</sys:String>
+                                    <sys:String>Sputter Damage</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -404,7 +404,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>正面减速</sys:String>
-                                    <sys:String>DirectIce</sys:String>
+                                    <sys:String>Direct Ice</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -412,7 +412,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>非正面减速</sys:String>
-                                    <sys:String>NotDirectIce</sys:String>
+                                    <sys:String>Not Direct Ice</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -420,7 +420,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>溅射减速</sys:String>
-                                    <sys:String>SputterIce</sys:String>
+                                    <sys:String>Sputter Ice</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -527,7 +527,7 @@
                                 <darkstyle:DarkCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>隐形</sys:String>
-                                        <sys:String>InVisible</sys:String>
+                                        <sys:String>Visible</sys:String>
                                     </x:Array>
                                 </darkstyle:DarkCheckBox.Resources>
                             </darkstyle:DarkCheckBox>
@@ -643,7 +643,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>发光时间</sys:String>
-                                <sys:String>Duration</sys:String>
+                                <sys:String>Duration Time</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
@@ -661,7 +661,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>僵尸Id</sys:String>
-                                <sys:String>ZombieId</sys:String>
+                                <sys:String>Zombie Id</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
@@ -749,7 +749,7 @@
                                 <darkstyle:DarkCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>隐形</sys:String>
-                                        <sys:String>InVisible</sys:String>
+                                        <sys:String>Visible</sys:String>
                                     </x:Array>
                                 </darkstyle:DarkCheckBox.Resources>
                             </darkstyle:DarkCheckBox>
@@ -777,7 +777,7 @@
                 <TabItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>场地物品</sys:String>
-                        <sys:String>Griditems</sys:String>
+                        <sys:String>Grid items</sys:String>
                     </x:Array>
                 </TabItem.Resources>
                 <Canvas Background="#FF252525">
@@ -824,7 +824,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>弹坑倒计时</sys:String>
-                                <sys:String>CraterTime</sys:String>
+                                <sys:String>Crater Counttime</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
@@ -841,7 +841,7 @@
                                 <TextBlock.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>皮肤样式</sys:String>
-                                        <sys:String>VaseSkin</sys:String>
+                                        <sys:String>Vase Skin</sys:String>
                                     </x:Array>
                                 </TextBlock.Resources>
                             </TextBlock>
@@ -982,7 +982,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>卡槽格数</sys:String>
-                                <sys:String>CardCount</sys:String>
+                                <sys:String>Card Count</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
@@ -1054,7 +1054,7 @@
                                 <darkstyle:DarkCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>隐形</sys:String>
-                                        <sys:String>InVisible</sys:String>
+                                        <sys:String>Visible</sys:String>
                                     </x:Array>
                                 </darkstyle:DarkCheckBox.Resources>
                             </darkstyle:DarkCheckBox>
@@ -1151,7 +1151,7 @@
                                 <darkstyle:DarkCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>高坚果</sys:String>
-                                        <sys:String>Tallnut</sys:String>
+                                        <sys:String>Tall-nut</sys:String>
                                     </x:Array>
                                 </darkstyle:DarkCheckBox.Resources>
                             </darkstyle:DarkCheckBox>
@@ -1161,7 +1161,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>属性倒计时</sys:String>
-                                <sys:String>PropTime</sys:String>
+                                <sys:String>Prop CountTime</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
@@ -1170,7 +1170,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>关卡进程</sys:String>
-                                <sys:String>Process</sys:String>
+                                <sys:String>Level Process</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
@@ -1180,7 +1180,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>关卡轮数</sys:String>
-                                <sys:String>Round</sys:String>
+                                <sys:String>Level Round</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
@@ -1190,7 +1190,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>场景类型</sys:String>
-                                <sys:String>SceneType</sys:String>
+                                <sys:String>Scene Type</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
