@@ -171,7 +171,7 @@
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="生存模式:浓雾(困难)"  >
+                        <darkstyle:DarkComboBoxItem Content="生存模式:浓雾 (困难)"  >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>生存模式:浓雾 (困难)</sys:String>
@@ -179,7 +179,7 @@
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="生存模式:屋顶(困难)">
+                        <darkstyle:DarkComboBoxItem Content="生存模式:屋顶 (困难)">
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>生存模式:屋顶 (困难)</sys:String>
