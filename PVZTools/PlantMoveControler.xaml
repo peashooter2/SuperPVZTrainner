@@ -22,7 +22,7 @@
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>植物序号</sys:String>
-                    <sys:String>PlantIndex</sys:String>
+                    <sys:String>Plant Index</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
@@ -31,7 +31,7 @@
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>用↑↓←→控制</sys:String>
-                    <sys:String>Use ↑↓←→</sys:String>
+                    <sys:String>Use ↑↓←→ control</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
@@ -39,7 +39,7 @@
             <GroupBox.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>第一个植物</sys:String>
-                    <sys:String>FirstPlant</sys:String>
+                    <sys:String>First Plant</sys:String>
                 </x:Array>
             </GroupBox.Resources>
             <StackPanel>
@@ -52,7 +52,7 @@
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>植物序号</sys:String>
-                    <sys:String>PlantIndex</sys:String>
+                    <sys:String>Plant Index</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
@@ -61,7 +61,7 @@
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>用WSAD控制</sys:String>
-                    <sys:String>Use WSAD</sys:String>
+                    <sys:String>Use WSAD control</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
@@ -69,7 +69,7 @@
             <GroupBox.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>第二个植物</sys:String>
-                    <sys:String>SecondPlant</sys:String>
+                    <sys:String>Second Plant</sys:String>
                 </x:Array>
             </GroupBox.Resources>
             <StackPanel>
