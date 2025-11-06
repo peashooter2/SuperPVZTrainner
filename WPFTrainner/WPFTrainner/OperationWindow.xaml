@@ -291,7 +291,7 @@
             <GroupBox.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>生成物品</sys:String>
-                    <sys:String>CreateCoin</sys:String>
+                    <sys:String>Create Coin</sys:String>
                 </x:Array>
             </GroupBox.Resources>
             <Canvas>
@@ -319,7 +319,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>对齐网格</sys:String>
-                            <sys:String>UseGrid</sys:String>
+                            <sys:String>Use Grid</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -355,7 +355,7 @@
                     <TextBlock.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>皮肤样式</sys:String>
-                            <sys:String>VaseSkin</sys:String>
+                            <sys:String>Vase Skin</sys:String>
                         </x:Array>
                     </TextBlock.Resources>
                 </TextBlock>
@@ -495,7 +495,7 @@
             <GroupBox.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>生成字幕</sys:String>
-                    <sys:String>CreateCaption</sys:String>
+                    <sys:String>Create Caption</sys:String>
                 </x:Array>
             </GroupBox.Resources>
             <Canvas>
@@ -526,7 +526,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>图片数据</sys:String>
-                            <sys:String>ImgData</sys:String>
+                            <sys:String>Image Data</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
@@ -544,7 +544,7 @@
             <GroupBox.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>生成特效</sys:String>
-                    <sys:String>SpecialEffects</sys:String>
+                    <sys:String>Special Effects</sys:String>
                 </x:Array>
             </GroupBox.Resources>
             <Canvas>
