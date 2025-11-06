@@ -26,7 +26,7 @@
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>冒险模式波数</sys:String>
-                    <sys:String>Adventure</sys:String>
+                    <sys:String>Adventure Wave</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
@@ -126,7 +126,7 @@
                 <darkstyle:DarkComboBoxItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>谁笑到最后</sys:String>
-                        <sys:String>LastStand</sys:String>
+                        <sys:String>Last Stand</sys:String>
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
@@ -134,7 +134,7 @@
                 <darkstyle:DarkComboBoxItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>坚果保龄球</sys:String>
-                        <sys:String>WallnutBowling</sys:String>
+                        <sys:String>Wall-nut Bowling</sys:String>
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
@@ -142,7 +142,7 @@
                 <darkstyle:DarkComboBoxItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>空袭</sys:String>
-                        <sys:String>AirRaid</sys:String>
+                        <sys:String>Air Raid</sys:String>
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
@@ -150,7 +150,7 @@
                 <darkstyle:DarkComboBoxItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>坟墓模式</sys:String>
-                        <sys:String>GraveDanger</sys:String>
+                        <sys:String>Grave Danger</sys:String>
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
@@ -158,7 +158,7 @@
                 <darkstyle:DarkComboBoxItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>超乎寻常的压力</sys:String>
-                        <sys:String>HighGravity</sys:String>
+                        <sys:String>High Gravity</sys:String>
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
@@ -166,7 +166,7 @@
                 <darkstyle:DarkComboBoxItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>保护传送门</sys:String>
-                        <sys:String>PortalCombat</sys:String>
+                        <sys:String>Portal Combat</sys:String>
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
@@ -190,7 +190,7 @@
                 <darkstyle:DarkComboBoxItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>黑暗的暴风雨夜</sys:String>
-                        <sys:String>DarkStormyNight</sys:String>
+                        <sys:String>Dark Stormy Night</sys:String>
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
@@ -210,11 +210,11 @@
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
-            <darkstyle:DarkComboBoxItem Content="你看他们像柱子一样">
+            <darkstyle:DarkComboBoxItem Content="排山倒海">
                 <darkstyle:DarkComboBoxItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                        <sys:String>你看他们像柱子一样</sys:String>
-                        <sys:String>ColumnLikeYouSeeEm</sys:String>
+                        <sys:String>排山倒海</sys:String>
+                        <sys:String>Column Like You See 'Em</sys:String>
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
@@ -222,7 +222,7 @@
                 <darkstyle:DarkComboBoxItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>你能把它挖出来吗</sys:String>
-                        <sys:String>CanYouDigIt</sys:String>
+                        <sys:String>Can You Dig It?</sys:String>
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
@@ -238,7 +238,7 @@
                 <darkstyle:DarkComboBoxItem.Resources>
                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                         <sys:String>坚果保龄球2</sys:String>
-                        <sys:String>WallnutBowling2</sys:String>
+                        <sys:String>Wall-nut Bowling 2</sys:String>
                     </x:Array>
                 </darkstyle:DarkComboBoxItem.Resources>
             </darkstyle:DarkComboBoxItem>
@@ -322,7 +322,7 @@
             <TextBlock.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>冒险不足及生存困难为1类,2-5为2类,锤僵尸3类,生存简单8类,其余4类</sys:String>
-                    <sys:String>Adv leq&#38;SurvivalH[1]2-5[2]WharkaZombie[3]Survival[8]other[4]</sys:String>
+                    <sys:String>Adv leq&#38;SurvivalHard[1]2-5[2]WharkaZombie[3]Survival[8]other[4]</sys:String>
                 </x:Array>
             </TextBlock.Resources>
         </TextBlock>
