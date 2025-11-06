@@ -147,43 +147,43 @@
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="生存模式:白天(困难)"  >
+                        <darkstyle:DarkComboBoxItem Content="生存模式:白天 (困难)"  >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>生存模式:白天(困难)</sys:String>
-                                    <sys:String>Survival:Day(Hard)</sys:String>
+                                    <sys:String>生存模式:白天 (困难)</sys:String>
+                                    <sys:String>Survival:Day (Hard)</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="生存模式:黑夜(困难)"  >
+                        <darkstyle:DarkComboBoxItem Content="生存模式:黑夜 (困难)"  >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>生存模式:黑夜(困难)</sys:String>
-                                    <sys:String>Survival:Night(Hard)</sys:String>
+                                    <sys:String>生存模式:黑夜 (困难)</sys:String>
+                                    <sys:String>Survival:Night (Hard)</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="生存模式:泳池(困难)"  >
+                        <darkstyle:DarkComboBoxItem Content="生存模式:泳池 (困难)"  >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>生存模式:泳池(困难)</sys:String>
-                                    <sys:String>Survival:Pool(Hard)</sys:String>
+                                    <sys:String>生存模式:泳池 (困难)</sys:String>
+                                    <sys:String>Survival:Pool (Hard)</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
                         <darkstyle:DarkComboBoxItem Content="生存模式:浓雾(困难)"  >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>生存模式:浓雾(困难)</sys:String>
-                                    <sys:String>Survival:Fog(Hard)</sys:String>
+                                    <sys:String>生存模式:浓雾 (困难)</sys:String>
+                                    <sys:String>Survival:Fog (Hard)</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
                         <darkstyle:DarkComboBoxItem Content="生存模式:屋顶(困难)">
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>生存模式:屋顶(困难)</sys:String>
-                                    <sys:String>Survival:Roof(Hard)</sys:String>
+                                    <sys:String>生存模式:屋顶 (困难)</sys:String>
+                                    <sys:String>Survival:Roof (Hard)</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -639,43 +639,43 @@
                     </darkstyle:DarkComboBox>
                     <darkstyle:DarkComboBox x:Name="CBLevelEndless" Canvas.Left="150" Canvas.Top="220"  Width="190"
                                       ScrollViewer.CanContentScroll="False" ScrollViewer.VerticalScrollBarVisibility="Hidden">
-                        <darkstyle:DarkComboBoxItem Content="白天无尽" >
+                        <darkstyle:DarkComboBoxItem Content="生存模式:白天 (无尽)" >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>白天无尽</sys:String>
-                                    <sys:String>Survival:Day(Endless)</sys:String>
+                                    <sys:String>生存模式:白天 (无尽)</sys:String>
+                                    <sys:String>Survival:Day (Endless)</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="夜晚无尽" >
+                        <darkstyle:DarkComboBoxItem Content="生存模式:夜晚 (无尽)" >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>夜晚无尽</sys:String>
-                                    <sys:String>Survival:Night(Endless)</sys:String>
+                                    <sys:String>生存模式:夜晚 (无尽)</sys:String>
+                                    <sys:String>Survival:Night (Endless)</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="泳池无尽" >
+                        <darkstyle:DarkComboBoxItem Content="生存模式:泳池 (无尽)" >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>泳池无尽</sys:String>
-                                    <sys:String>Survival:Pool(Endless)</sys:String>
+                                    <sys:String>生存模式:泳池 (无尽)</sys:String>
+                                    <sys:String>Survival:Pool (Endless)</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="浓雾无尽" >
+                        <darkstyle:DarkComboBoxItem Content="生存模式:浓雾 (无尽)" >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>浓雾无尽</sys:String>
-                                    <sys:String>Survival:Fog(Endless)</sys:String>
+                                    <sys:String>生存模式:浓雾 (无尽)</sys:String>
+                                    <sys:String>Survival:Fog (Endless)</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="屋顶无尽" >
+                        <darkstyle:DarkComboBoxItem Content="生存模式:屋顶 (无尽)" >
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>屋顶无尽</sys:String>
-                                    <sys:String>Survival:Roof(Endless)</sys:String>
+                                    <sys:String>生存模式:屋顶 (无尽)</sys:String>
+                                    <sys:String>Survival:Roof (Endless)</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -979,11 +979,11 @@
                             </darkstyle:DarkButton>
                         </Canvas>
                     </GroupBox>
-                    <local:MyCheckBox Content="柱子模式" Tag="ColumnLike" Canvas.Top="159" Canvas.Left="17">
+                    <local:MyCheckBox Content="排山倒海" Tag="ColumnLike" Canvas.Top="159" Canvas.Left="17">
                         <local:MyCheckBox.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                <sys:String>柱子模式</sys:String>
-                                <sys:String>Column Like You See</sys:String>
+                                <sys:String>排山倒海</sys:String>
+                                <sys:String>Column Like You See 'Em</sys:String>
                             </x:Array>
                         </local:MyCheckBox.Resources>
                     </local:MyCheckBox>
@@ -1815,7 +1815,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>[64]扶梯</sys:String>
-                                    <sys:String>[64]LadderZombie</sys:String>
+                                    <sys:String>[64]Ladder Zombie</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -1823,7 +1823,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>[65]矿工</sys:String>
-                                    <sys:String>[65]DiggerZombie</sys:String>
+                                    <sys:String>[65]Digger Zombie</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
