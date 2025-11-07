@@ -3660,10 +3660,10 @@
                             </darkstyle:DarkComboBox>
                             <darkstyle:DarkTextBox x:Name="TBDamageTime" Text="0" Canvas.Left="238" Canvas.Top="10" Width="100" 
                                              PreviewKeyDown="TBDamageTime_PreviewKeyDown"  BorderThickness="1" Height="20" Margin="0"/>
-                            <local:MyCheckBox Content="攻击加速" Tag="AttackAccelerate" Canvas.Top="44" Canvas.Left="10">
+                            <local:MyCheckBox Content="加速攻击" Tag="AttackAccelerate" Canvas.Top="44" Canvas.Left="10">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>攻击加速</sys:String>
+                                        <sys:String>加速攻击</sys:String>
                                         <sys:String>Accelerate Attack</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
@@ -3676,18 +3676,18 @@
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="攻击多元" Tag="MuitiAttack" Canvas.Top="44" Canvas.Left="264">
+                            <local:MyCheckBox Content="多元攻击" Tag="MuitiAttack" Canvas.Top="44" Canvas.Left="264">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>攻击多元</sys:String>
+                                        <sys:String>多元攻击</sys:String>
                                         <sys:String>Multiple Attack</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="攻击重叠" Tag="AttackOverlap" Canvas.Top="44" Canvas.Left="96">
+                            <local:MyCheckBox Content="重叠攻击" Tag="AttackOverlap" Canvas.Top="44" Canvas.Left="96">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>攻击重叠</sys:String>
+                                        <sys:String>重叠攻击</sys:String>
                                         <sys:String>Overlap Attack</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
