@@ -157,8 +157,8 @@
                 <local:MyCheckBox x:Name="CBFreePlanting" Content="免费种植模式" Click="CBFreePlanting_Click" >
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                            <sys:String>免费种植模式</sys:String>
-                            <sys:String>Free Planting Mode</sys:String>
+                            <sys:String>免费种植</sys:String>
+                            <sys:String>Free Planting</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
