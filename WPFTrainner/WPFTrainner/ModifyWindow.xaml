@@ -2948,39 +2948,39 @@
                             </local:MyToolTip>
                         </GroupBox.ToolTip>
                         <Canvas x:Name="CZombieSeeds">
-                            <local:MyCheckBox Content="普通" Canvas.Left="10" Canvas.Top="10" Click="CBZombieSeed_Click" IsChecked="True" IsEnabled="{Binding ElementName=RBCurrent, Path=IsChecked}">
+                            <local:MyCheckBox Content="普通僵尸" Canvas.Left="10" Canvas.Top="10" Click="CBZombieSeed_Click" IsChecked="True" IsEnabled="{Binding ElementName=RBCurrent, Path=IsChecked}">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>普通</sys:String>
-                                        <sys:String>Zomb</sys:String>
+                                        <sys:String>普通僵尸</sys:String>
+                                        <sys:String>Basic Zombie</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="旗帜" Canvas.Left="69" Canvas.Top="10" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="旗帜僵尸" Canvas.Left="69" Canvas.Top="10" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>旗帜</sys:String>
-                                        <sys:String>Flag</sys:String>
+                                        <sys:String>旗帜僵尸</sys:String>
+                                        <sys:String>Flag Zombie</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="路障" Canvas.Left="129" Canvas.Top="10" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="路障僵尸" Canvas.Left="129" Canvas.Top="10" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>路障</sys:String>
+                                        <sys:String>路障僵尸</sys:String>
                                         <sys:String>Cone</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="撑杆" Canvas.Left="191" Canvas.Top="10" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="撑杆僵尸" Canvas.Left="191" Canvas.Top="10" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>撑杆</sys:String>
+                                        <sys:String>撑杆僵尸</sys:String>
                                         <sys:String>Pole</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="铁桶" Canvas.Left="252" Canvas.Top="10" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="铁桶僵尸" Canvas.Left="252" Canvas.Top="10" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>铁桶</sys:String>
@@ -2988,7 +2988,7 @@
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="读报" Canvas.Left="10" Canvas.Top="33" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="读报僵尸" Canvas.Left="10" Canvas.Top="33" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>读报</sys:String>
@@ -2996,34 +2996,34 @@
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="铁门" Canvas.Left="69" Canvas.Top="33" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="铁门僵尸" Canvas.Left="69" Canvas.Top="33" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>铁门</sys:String>
+                                        <sys:String>铁门僵尸</sys:String>
                                         <sys:String>Door</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="橄榄" Canvas.Left="129" Canvas.Top="33" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="橄榄僵尸" Canvas.Left="129" Canvas.Top="33" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>橄榄</sys:String>
+                                        <sys:String>橄榄僵尸</sys:String>
                                         <sys:String>Ball</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="舞王" Canvas.Left="191" Canvas.Top="33" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="舞王僵尸" Canvas.Left="191" Canvas.Top="33" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>舞王</sys:String>
+                                        <sys:String>舞王僵尸</sys:String>
                                         <sys:String>Dance</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="伴舞" Canvas.Left="252" Canvas.Top="33" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="伴舞僵尸" Canvas.Left="252" Canvas.Top="33" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>伴舞</sys:String>
+                                        <sys:String>伴舞僵尸</sys:String>
                                         <sys:String>Back</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
@@ -3036,7 +3036,7 @@
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="潜水" Canvas.Left="69" Canvas.Top="57" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="潜水僵尸" Canvas.Left="69" Canvas.Top="57" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>潜水</sys:String>
@@ -3044,55 +3044,55 @@
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="冰车" Canvas.Left="129" Canvas.Top="57" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="冰车僵尸" Canvas.Left="129" Canvas.Top="57" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>冰车</sys:String>
+                                        <sys:String>冰车僵尸</sys:String>
                                         <sys:String>Zombo</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="雪橇" Canvas.Left="191" Canvas.Top="57" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="雪橇小队" Canvas.Left="191" Canvas.Top="57" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>雪橇</sys:String>
+                                        <sys:String>雪橇小队</sys:String>
                                         <sys:String>Team</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="海豚" Canvas.Left="252" Canvas.Top="57" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="海豚僵尸" Canvas.Left="252" Canvas.Top="57" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>海豚</sys:String>
+                                        <sys:String>海豚僵尸</sys:String>
                                         <sys:String>Rider</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="小丑" Canvas.Left="10" Canvas.Top="82" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="小丑僵尸" Canvas.Left="10" Canvas.Top="82" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>小丑</sys:String>
+                                        <sys:String>小丑僵尸</sys:String>
                                         <sys:String>Jack</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="气球" Canvas.Left="69" Canvas.Top="82" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="气球僵尸" Canvas.Left="69" Canvas.Top="82" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>气球</sys:String>
+                                        <sys:String>气球僵尸</sys:String>
                                         <sys:String>Blon</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="矿工" Canvas.Left="129" Canvas.Top="82" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="矿工僵尸" Canvas.Left="129" Canvas.Top="82" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>矿工</sys:String>
+                                        <sys:String>矿工僵尸</sys:String>
                                         <sys:String>Diger</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="跳跳" Canvas.Left="191" Canvas.Top="82" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="跳跳僵尸" Canvas.Left="191" Canvas.Top="82" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>跳跳</sys:String>
@@ -3100,67 +3100,67 @@
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="雪人" Canvas.Left="252" Canvas.Top="82" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="雪人僵尸" Canvas.Left="252" Canvas.Top="82" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>雪人</sys:String>
+                                        <sys:String>雪人僵尸</sys:String>
                                         <sys:String>Yeti</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="蹦极" Canvas.Left="10" Canvas.Top="107" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="蹦极僵尸" Canvas.Left="10" Canvas.Top="107" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>蹦极</sys:String>
+                                        <sys:String>蹦极僵尸</sys:String>
                                         <sys:String>Bunge</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="扶梯" Canvas.Left="69" Canvas.Top="107" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="扶梯僵尸" Canvas.Left="69" Canvas.Top="107" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>扶梯</sys:String>
+                                        <sys:String>扶梯僵尸</sys:String>
                                         <sys:String>Lader</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="投篮" Canvas.Left="129" Canvas.Top="107" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="投篮车僵尸" Canvas.Left="129" Canvas.Top="107" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>投篮</sys:String>
+                                        <sys:String>投篮车僵尸</sys:String>
                                         <sys:String>Cata</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="巨人" Canvas.Left="191" Canvas.Top="107" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="巨人僵尸" Canvas.Left="191" Canvas.Top="107" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>巨人</sys:String>
+                                        <sys:String>巨人僵尸</sys:String>
                                         <sys:String>Giant</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="小鬼" Canvas.Left="252" Canvas.Top="107" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="小鬼僵尸" Canvas.Left="252" Canvas.Top="107" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>小鬼</sys:String>
+                                        <sys:String>小鬼僵尸</sys:String>
                                         <sys:String>Imp</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="僵王" Canvas.Left="10" Canvas.Top="132" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="僵王博士" Canvas.Left="10" Canvas.Top="132" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>僵王</sys:String>
-                                        <sys:String>Dr.Zb</sys:String>
+                                        <sys:String>僵王博士</sys:String>
+                                        <sys:String>Dr. Zomboss</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
-                            <local:MyCheckBox Content="豌豆" Canvas.Left="69" Canvas.Top="132" Click="CBZombieSeed_Click">
+                            <local:MyCheckBox Content="豌豆"射手 Canvas.Left="69" Canvas.Top="132" Click="CBZombieSeed_Click">
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                        <sys:String>豌豆</sys:String>
-                                        <sys:String>Pea</sys:String>
+                                        <sys:String>豌豆射手</sys:String>
+                                        <sys:String>Peashooter</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
@@ -3168,7 +3168,7 @@
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>坚果</sys:String>
-                                        <sys:String>Wall</sys:String>
+                                        <sys:String>Wall-nut</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
@@ -3218,7 +3218,7 @@
                         <darkstyle:DarkButton.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>修改出怪</sys:String>
-                                <sys:String>Spawning</sys:String>
+                                <sys:String>Edit Spawning</sys:String>
                             </x:Array>
                         </darkstyle:DarkButton.Resources>
                     </darkstyle:DarkButton>
@@ -3280,7 +3280,7 @@
                                 <RadioButton.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>毁灭菇</sys:String>
-                                        <sys:String>Doom</sys:String>
+                                        <sys:String>Doom Shroom</sys:String>
                                     </x:Array>
                                 </RadioButton.Resources>
                             </RadioButton>
@@ -3289,7 +3289,7 @@
                                 <RadioButton.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>土豆雷</sys:String>
-                                        <sys:String>Potato</sys:String>
+                                        <sys:String>Potato Mine</sys:String>
                                     </x:Array>
                                 </RadioButton.Resources>
                             </RadioButton>
@@ -3324,7 +3324,7 @@
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>小丑反水</sys:String>
-                                        <sys:String>JackBetray</sys:String>
+                                        <sys:String>Jack Betray</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
@@ -3332,7 +3332,7 @@
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>是否灰烬</sys:String>
-                                        <sys:String>IsCinder</sys:String>
+                                        <sys:String>Is Cinder</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
@@ -3340,7 +3340,7 @@
                                 <TextBlock.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>行界限</sys:String>
-                                        <sys:String>LineLmt</sys:String>
+                                        <sys:String>Line Limit</sys:String>
                                     </x:Array>
                                 </TextBlock.Resources>
                             </TextBlock>
@@ -3390,7 +3390,7 @@
                                     <darkstyle:DarkComboBoxItem.Resources>
                                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                             <sys:String>灰烬伤害</sys:String>
-                                            <sys:String>BombDamage</sys:String>
+                                            <sys:String>Bomb Damage</sys:String>
                                         </x:Array>
                                     </darkstyle:DarkComboBoxItem.Resources>
                                     <darkstyle:DarkComboBoxItem.ToolTip>
@@ -3408,7 +3408,7 @@
                                     <darkstyle:DarkComboBoxItem.Resources>
                                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                             <sys:String>即死判断</sys:String>
-                                            <sys:String>CinderJudgment</sys:String>
+                                            <sys:String>Cinder Judgment</sys:String>
                                         </x:Array>
                                     </darkstyle:DarkComboBoxItem.Resources>
                                     <darkstyle:DarkComboBoxItem.ToolTip>
@@ -3426,7 +3426,7 @@
                                     <darkstyle:DarkComboBoxItem.Resources>
                                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                             <sys:String>土豆雷</sys:String>
-                                            <sys:String>PotatoMine</sys:String>
+                                            <sys:String>Potato Mine</sys:String>
                                         </x:Array>
                                     </darkstyle:DarkComboBoxItem.Resources>
                                 </darkstyle:DarkComboBoxItem>
@@ -3476,7 +3476,7 @@
                                             <ToolTip.Resources>
                                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                                     <sys:String>范围伤害包含了地刺，地刺王，大喷菇，忧郁菇的攻击力</sys:String>
-                                                    <sys:String>AOE Damage includes Caltrop,Spikerock, Fumeshroom,Gloomshroom</sys:String>
+                                                    <sys:String>AOE Damage includes Caltrop,Spikerock, Fume-shroom,Gloom-shroom</sys:String>
                                                 </x:Array>
                                             </ToolTip.Resources>
                                         </local:MyToolTip>
@@ -3537,7 +3537,7 @@
                                 <TextBlock.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>伤害时间</sys:String>
-                                        <sys:String>Duration</sys:String>
+                                        <sys:String>Damage Duration</sys:String>
                                     </x:Array>
                                 </TextBlock.Resources>
                             </TextBlock>
@@ -3589,7 +3589,7 @@
                                     <darkstyle:DarkComboBoxItem.Resources>
                                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                             <sys:String>冻结1参数1</sys:String>
-                                            <sys:String>Frozen1Arg1</sys:String>
+                                            <sys:String>Frozen1 Arg1</sys:String>
                                         </x:Array>
                                     </darkstyle:DarkComboBoxItem.Resources>
                                     <darkstyle:DarkComboBoxItem.ToolTip>
@@ -3597,7 +3597,7 @@
                                             <ToolTip.Resources>
                                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                                     <sys:String>冻结时间1由random(冻结1参数1)+冻结1参数2计算得出</sys:String>
-                                                    <sys:String>FrozenTime1 = random(Frozen1Arg1)+Frozen1Arg2</sys:String>
+                                                    <sys:String>Frozen Time1 = random(Frozen1Arg1)+Frozen1Arg2</sys:String>
                                                 </x:Array>
                                             </ToolTip.Resources>
                                         </local:MyToolTip>
@@ -3607,7 +3607,7 @@
                                     <darkstyle:DarkComboBoxItem.Resources>
                                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                             <sys:String>冻结1参数2</sys:String>
-                                            <sys:String>Frozen1Arg2</sys:String>
+                                            <sys:String>Frozen1 Arg2</sys:String>
                                         </x:Array>
                                     </darkstyle:DarkComboBoxItem.Resources>
                                     <darkstyle:DarkComboBoxItem.ToolTip>
@@ -3615,7 +3615,7 @@
                                             <ToolTip.Resources>
                                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                                     <sys:String>冻结时间1由random(冻结1参数1)+冻结1参数2计算得出</sys:String>
-                                                    <sys:String>FrozenTime1 = random(Frozen1Arg1)+Frozen1Arg2</sys:String>
+                                                    <sys:String>Frozen Time1 = random(Frozen1Arg1)+Frozen1Arg2</sys:String>
                                                 </x:Array>
                                             </ToolTip.Resources>
                                         </local:MyToolTip>
@@ -3625,7 +3625,7 @@
                                     <darkstyle:DarkComboBoxItem.Resources>
                                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                             <sys:String>冻结2参数1</sys:String>
-                                            <sys:String>Frozen2Arg1</sys:String>
+                                            <sys:String>Frozen2 Arg1</sys:String>
                                         </x:Array>
                                     </darkstyle:DarkComboBoxItem.Resources>
                                     <darkstyle:DarkComboBoxItem.ToolTip>
@@ -3633,7 +3633,7 @@
                                             <ToolTip.Resources>
                                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                                     <sys:String>冻结时间2由random(冻结2参数1)+冻结2参数2计算得出</sys:String>
-                                                    <sys:String>FrozenTime2 = random(Frozen2Arg1)+Frozen2Arg2</sys:String>
+                                                    <sys:String>Frozen Time2 = random(Frozen2Arg1)+Frozen2Arg2</sys:String>
                                                 </x:Array>
                                             </ToolTip.Resources>
                                         </local:MyToolTip>
@@ -3643,7 +3643,7 @@
                                     <darkstyle:DarkComboBoxItem.Resources>
                                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                             <sys:String>冻结2参数2</sys:String>
-                                            <sys:String>Frozen2Arg2</sys:String>
+                                            <sys:String>Frozen2 Arg2</sys:String>
                                         </x:Array>
                                     </darkstyle:DarkComboBoxItem.Resources>
                                     <darkstyle:DarkComboBoxItem.ToolTip>
@@ -3651,7 +3651,7 @@
                                             <ToolTip.Resources>
                                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                                     <sys:String>冻结时间2由random(冻结2参数1)+冻结2参数2计算得出</sys:String>
-                                                    <sys:String>FrozenTime2 = random(Frozen2Arg1)+Frozen2Arg2</sys:String>
+                                                    <sys:String>Frozen Time2 = random(Frozen2Arg1)+Frozen2Arg2</sys:String>
                                                 </x:Array>
                                             </ToolTip.Resources>
                                         </local:MyToolTip>
@@ -3664,7 +3664,7 @@
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>攻击加速</sys:String>
-                                        <sys:String>Accelerate</sys:String>
+                                        <sys:String>Accelerate Attack</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
@@ -3672,7 +3672,7 @@
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>攻击额外</sys:String>
-                                        <sys:String>Addition</sys:String>
+                                        <sys:String>Addition Attack</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
@@ -3680,7 +3680,7 @@
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>攻击多元</sys:String>
-                                        <sys:String>Multiple</sys:String>
+                                        <sys:String>Multiple Attack</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
@@ -3688,7 +3688,7 @@
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>攻击重叠</sys:String>
-                                        <sys:String>Overlap</sys:String>
+                                        <sys:String>Overlap Attack</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                             </local:MyCheckBox>
@@ -3756,7 +3756,7 @@
                                 <local:MyCheckBox.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>裸地视作屋顶*</sys:String>
-                                        <sys:String>UnsoddedAsRoof*</sys:String>
+                                        <sys:String>Unsodded As Roof*</sys:String>
                                     </x:Array>
                                 </local:MyCheckBox.Resources>
                                 <local:MyCheckBox.ToolTip>
@@ -3787,7 +3787,7 @@
                                 <RadioButton.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>正常水池</sys:String>
-                                        <sys:String>DefaultPool</sys:String>
+                                        <sys:String>Default Pool</sys:String>
                                     </x:Array>
                                 </RadioButton.Resources>
                             </RadioButton>
@@ -3796,7 +3796,7 @@
                                 <RadioButton.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>水路反转</sys:String>
-                                        <sys:String>LPReverse</sys:String>
+                                        <sys:String>Pool Reverse</sys:String>
                                     </x:Array>
                                 </RadioButton.Resources>
                             </RadioButton>
@@ -3814,7 +3814,7 @@
                                 <RadioButton.Resources>
                                     <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                         <sys:String>全陆地</sys:String>
-                                        <sys:String>Land</sys:String>
+                                        <sys:String>All Land</sys:String>
                                     </x:Array>
                                 </RadioButton.Resources>
                             </RadioButton>
@@ -3946,7 +3946,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>雪橇区冰道消失时间</sys:String>
-                                    <sys:String>BobsiedBonanza Ice time</sys:String>
+                                    <sys:String>Bobsied Bonanza Ice time</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -3954,7 +3954,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>雪橇区冰道初始时间</sys:String>
-                                    <sys:String>BobsiedBonanza Ice init time</sys:String>
+                                    <sys:String>Bobsied Bonanza Ice init time</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -4031,7 +4031,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>全6路</sys:String>
-                                    <sys:String>6Route</sys:String>
+                                    <sys:String>All 6 Route</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -4039,7 +4039,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>1256路</sys:String>
-                                    <sys:String>1256Route</sys:String>
+                                    <sys:String>1256 Route</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -4047,7 +4047,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>1路</sys:String>
-                                    <sys:String>1Route</sys:String>
+                                    <sys:String>1 Route</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -4055,7 +4055,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>2路</sys:String>
-                                    <sys:String>2Route</sys:String>
+                                    <sys:String>2 Route</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -4063,7 +4063,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>3路</sys:String>
-                                    <sys:String>3Route</sys:String>
+                                    <sys:String>3 Route</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -4071,7 +4071,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>4路</sys:String>
-                                    <sys:String>4Route</sys:String>
+                                    <sys:String>4 Route</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -4079,7 +4079,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>5路</sys:String>
-                                    <sys:String>5Route</sys:String>
+                                    <sys:String>5 Route</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -4087,7 +4087,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>6路</sys:String>
-                                    <sys:String>6Route</sys:String>
+                                    <sys:String>6 Route</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -4379,7 +4379,7 @@
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                     <sys:String>小僵尸大麻烦</sys:String>
-                                    <sys:String>Big Troble uLittle Zombie</sys:String>
+                                    <sys:String>Big Trouble Little Zombie</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -4407,11 +4407,11 @@
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
-                        <darkstyle:DarkComboBoxItem Content="你看他们像柱子一样" Tag="4">
+                        <darkstyle:DarkComboBoxItem Content="排山倒海" Tag="4">
                             <darkstyle:DarkComboBoxItem.Resources>
                                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
-                                    <sys:String>你看他们像柱子一样</sys:String>
-                                    <sys:String>ColumnLikeYouSee</sys:String>
+                                    <sys:String>排山倒海</sys:String>
+                                    <sys:String>Column Like You See 'Em</sys:String>
                                 </x:Array>
                             </darkstyle:DarkComboBoxItem.Resources>
                         </darkstyle:DarkComboBoxItem>
@@ -4546,7 +4546,7 @@
                         <TextBlock.Resources>
                             <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                                 <sys:String>种植植物限制线</sys:String>
-                                <sys:String>Plant LimitLine</sys:String>
+                                <sys:String>Plant Limit Line</sys:String>
                             </x:Array>
                         </TextBlock.Resources>
                     </TextBlock>
