@@ -190,7 +190,7 @@
                     <local:MyCheckBox.Resources>
                         <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                             <sys:String>显示隐藏的小游戏</sys:String>
-                            <sys:String>Show Hidden Games</sys:String>
+                            <sys:String>Show Hidden Mini Games</sys:String>
                         </x:Array>
                     </local:MyCheckBox.Resources>
                 </local:MyCheckBox>
