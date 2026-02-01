@@ -142,7 +142,7 @@
                 </x:Array>
             </darkstyle:DarkButton.Resources>
         </darkstyle:DarkButton>
-        <darkstyle:DarkButton x:Name="ReadInfo"  Content="读取现状" Canvas.Left="555" Canvas.Top="375" Height="30" Width="100" Click="ReadInfo_Click">
+        <darkstyle:DarkButton x:Name="ReadInfo"  Content="读取信息" Canvas.Left="555" Canvas.Top="375" Height="30" Width="100" Click="ReadInfo_Click">
             <darkstyle:DarkButton.Resources>
                 <x:Array x:Key="Lang" Type="{x:Type sys:String}">
                     <sys:String>读取信息</sys:String>
